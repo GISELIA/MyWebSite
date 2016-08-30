@@ -1,2 +1,2 @@
 # MyWebSite
-My personal website draft
+This is the initial draft of my personal website. 
